@@ -14,6 +14,7 @@ After accomplishing the development stage, we applied it to open-source code to 
 
 # Demo
 [Visit the demo here!](https://zqh0421.github.io/codegpt/)
+
 <img width="600" alt="codegpt-demo" src="https://github.com/user-attachments/assets/230cbc7f-7b0b-4236-8533-3c92333caafd">
 
 
