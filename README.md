@@ -10,5 +10,8 @@ In our project, we developed a website based on open-source APIs to display and 
 After accomplishing the development stage, we applied it to open-source code to evaluate and improve the web page experience and to optimize the performance of the programming code.
 
 # Pipeline
-<img src="https://github.com/user-attachments/assets/5fa9fbb8-0e47-44d3-a33c-8620e834c4d6" alt="poster_00" width="800">
+<img src="https://github.com/user-attachments/assets/5fa9fbb8-0e47-44d3-a33c-8620e834c4d6" alt="poster_00" width="600">
+
+# Demo
+<img width="600" alt="codegpt-demo" src="https://github.com/user-attachments/assets/230cbc7f-7b0b-4236-8533-3c92333caafd">
 
