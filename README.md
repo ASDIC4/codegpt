@@ -1,4 +1,4 @@
-# codegpt
+# CodeGPT
 A research project at NCSU
 
 # Abstract
