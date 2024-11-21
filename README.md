@@ -1,7 +1,7 @@
 # codegpt
 A research project at NCSU
 
-# ABSTRACT
+# Abstract
 Even though a series of codes can achieve the same functions, their differences in composition and algorithm make them different in execution efficiency.
 
 Recently, OpenAI has released an AI-powered language model called ChatGPT, which can understand human language and answer questions. With its suggestions, we aim to optimize code performance more efficiently.
